@@ -1,0 +1,28 @@
+# ignore everything
+/*
+/*/
+*.pyo
+__pycache__/*
+
+# ... but these:
+!/alacritty/
+!/albert/
+!/fcitx/
+!/fcitx5/
+!/fish/
+!/i3/
+!/i3status/
+!/neofetch/
+!/omf/
+!/ranger/
+!/rofi/
+!/thefuck/
+#!/variety/
+!/yay/
+
+!/picom.conf
+
+!/_HOME_
+!/.gitignore
+!/README.md
+!/packages_Manjaro.txt
