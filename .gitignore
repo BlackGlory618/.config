@@ -13,6 +13,7 @@ __pycache__/*
 !/i3/
 !/i3status/
 !/neofetch/
+!/lazygit/
 !/omf/
 !/ranger/
 !/rofi/
